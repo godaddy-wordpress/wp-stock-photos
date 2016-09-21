@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "비즈니스 / 금융 / 법률"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "디자인 / 예술 / 포트폴리오"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "교육"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "건강 / 미용"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "홈 서비스 / 건설"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "음악 / 영화 / 오락"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "비영리 / 단체 / 종교"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "기타"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "애완 동물/동물"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "부동산"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "음식점 / 식품"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "스포츠 / 레크이에이션"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "교통 / 자동차"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "여행 / 접대 / 레저"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "결혼식"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "일반"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"사용할 수 있고 라이선스가 하락된 이미지는 GoDaddy 호스팅 고객만을 위한 것으로 타업체의 지적 재산권의 약관을 적용 받습니다. 자세한 "
+"내용은 <a href=\"%s\" target=\"_blank\">약관을 참조</a>하십시오."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"사용할 수 있고 라이선스가 하락된 이미지는 저희 호스팅 고객만을 위한 것으로 타업체의 지적 재산권의 약관을 적용 받습니다. 자세한 내용은 "
+"<a href=\"%s\" target=\"_blank\">약관을 참조</a>하십시오."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "스톡 사진"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "범주 변경"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "스톡 사진이 없습니다."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "미리보기"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "가져오기"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "뒤로"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "이미지 라이선스 정보"

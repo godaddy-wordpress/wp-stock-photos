@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "Επιχειρήσεις / Οικονομικά / Νομικά"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "Ντιζάιν / Τέχνη / Ντοσιέ με δείγματα έργων"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "Εκπαίδευση"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "Υγεία / Ομορφιά"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "Οικιακές υπηρεσίες / Κατασκευές"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "Μουσική / Ταινίες / Ψυχαγωγία"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "Μη κερδοσκοπικοί οργανισμοί / ΜΚΟ / Θρησκεία"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "Άλλο"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "Κατοικίδια / Ζώα"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "Κτηματομεσιτικά"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "Εστιατόριο / Τρόφιμα"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "Αθλήματα / Αναψυχή"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "Μεταφορές / Αυτοκίνηση"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "Ταξίδι / Φιλοξενία / Αναψυχή"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "Γάμος"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "Γενικά"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"Οι εικόνες που είναι διαθέσιμες και παραχωρούνται βάσει αδείας για χρήση, "
+"προορίζονται μόνο για πελάτες που φιλοξενούνται από την GoDaddy και "
+"υπόκεινται στους όρους και τις προϋποθέσεις δικαιωμάτων πνευματικής "
+"ιδιοκτησίας τρίτων. Για περισσότερες λεπτομέρειες, <a href=\"%s\" "
+"target=\"_blank\">δείτε τους όρους και τις προϋποθέσεις</a>."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"Οι εικόνες που είναι διαθέσιμες και παραχωρούνται βάσει αδείας για χρήση, "
+"προορίζονται μόνο για πελάτες που φιλοξενούνται από εμάς και υπόκεινται στους "
+"όρους και τις προϋποθέσεις δικαιωμάτων πνευματικής ιδιοκτησίας τρίτων. Για "
+"περισσότερες λεπτομέρειες, <a href=\"%s\" target=\"_blank\">δείτε τους όρους "
+"και τις προϋποθέσεις</a>."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "Απόθεμα φωτογραφιών"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "Αλλαγή κατηγορίας"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "Δεν βρέθηκαν φωτογραφίες στοκ."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "Προηγούμενο"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "Σχετικά με τις άδειες χρήσης εικόνων"

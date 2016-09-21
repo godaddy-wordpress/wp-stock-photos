@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "Doanh nghiệp / Tài chính / Luật"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "Thiết kế / Nghệ thuật / Danh mục đầu tư"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "Theo học"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "Sức khỏe / Sắc đẹp"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "Các dịch vụ tiện ích tại gia / Xây dựng"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "Âm nhạc / Phim ảnh / Giải trí"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "Phi lợi nhuận / Từ thiện / Tôn giáo"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "Khác"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "Vật nuôi/Động vật"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "Bất động sản"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "Nhà hàng / Thực phẩm"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "Thể thao / Tiêu khiển"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "Vận tải / Ô tô"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "Du lịch / Dịch vụ lưu trú / Giải trí"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "Lễ cưới"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "Chung"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"Hình ảnh khả dụng và được cấp phép sử dụng chỉ được dùng cho các khách hàng "
+"được lưu trữ của Godaddy và phải tuân theo các điều khoản và điều kiện của "
+"quyền sở hữu trí tuệ thuộc bên thứ ba. <a href=\"%s\" target=\"_blank\">Xem "
+"các điều khoản và điều kiện</a> để biết thêm thông tin bổ sung."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"Hình ảnh khả dụng và được cấp phép sử dụng chỉ được dùng cho các khách hàng "
+"được lưu trữ của Godaddy và phải tuân theo các điều khoản và điều kiện của "
+"quyền sở hữu trí tuệ thuộc bên thứ ba. <a href=\"%s\" target=\"_blank\">Xem "
+"các điều khoản và điều kiện</a> để biết thêm thông tin bổ sung."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "Ảnh của bạn"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "Thay đổi phân nhóm"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "Không tìm thấy hình ảnh nào của bạn."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "Xem trước"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "Nhập"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "Quay lại"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "Về Cấp phép của hình ảnh"

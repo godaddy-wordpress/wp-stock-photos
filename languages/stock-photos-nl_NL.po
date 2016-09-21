@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "Handel / Geldwezen / Recht"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "Design / Kunst / Portfolio"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "Opleiding"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "Gezondheid / Schoonheid"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "Services aan huis / Bouw"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "Muziek / Film / Entertainment"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "Non-profit / Goede doelen / Religie"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "Anders"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "Pets/Animals"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "Vastgoed"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "Restaurant / Voedsel"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "Sport / Recreatie"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "Transport / Automobiel"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "Reizen / Onderdak / Vrije Tijd"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "Bruiloft"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "Algemeen"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"De beschikbare en voor gebruik gelicentieerde afbeeldingen zijn alleen "
+"bedoeld voor klanten met GoDaddy-hosting en zijn onderworpen aan de "
+"voorwaarden van externe intellectuele eigendomsrechten. <a href=\"%s\" "
+"target=\"_blank\">Bekijk de voorwaarden</a> voor meer informatie."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"De beschikbare en voor gebruik gelicentieerde afbeeldingen zijn alleen "
+"bedoeld voor klanten met onze hosting en zijn onderworpen aan de voorwaarden "
+"van externe intellectuele eigendomsrechten. <a href=\"%s\" "
+"target=\"_blank\">Bekijk de voorwaarden</a> voor meer informatie."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "Royaltyvrije foto‘s"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "Categorie wijzigen"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "Geen stockfoto's gevonden."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "Importeer"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "Terug"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "Over licenties voor afbeeldingen"

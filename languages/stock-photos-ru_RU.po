@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "Бизнес / Финансы / Право"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "Дизайн / Искусство / Портфолио"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "Обучение"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "Здоровье / Красота"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "Услуги на дому / Строительство"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "Музыка / Фильмы / Развлечения"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "Некоммерческая деятельность / Ритуалы / Религия"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "Другой"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "Домашние любимцы и животные"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "Недвижимость"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "Ресторан / Продукты питания"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "Спорт / Отдых"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "Транспорт / Автомобили"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "Путешествия / Туризм / Отдых"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "Свадьба"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "Общие"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"Доступные и лицензированные для использования изображения предназначены лишь "
+"для клиентов, которые пользуются услугами хостинга GoDaddy, и регулируются "
+"условиями и положениями защиты интеллектуальной собственности третьих лиц. "
+"См. дополнительную информацию в <a href=\"%s\" target=\"_blank\">Условиях и положениях</a>."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"Доступные и лицензированные для использования изображения предназначены лишь "
+"для клиентов, которые пользуются нашими услугами хостинга, и регулируются "
+"условиями и положениями защиты интеллектуальной собственности третьих лиц. "
+"См. дополнительную информацию в <a href=\"%s\" target=\"_blank\">Условиях и положениях</a>."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "Стоковые фотографии"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "Изменить категорию"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "Стоковые фотографии не найдены."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "Назад"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "О лицензиях на изображения"

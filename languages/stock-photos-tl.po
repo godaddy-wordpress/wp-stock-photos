@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "Negosyo / Pinansya / Batas"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "Design / Art / Portfolio"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "Edukasyon"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "Kalusugan / Kagandahan"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "Mga Serbisyo sa Tahanan / Construction"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "Musika / Mga Pelikula / Entertainment"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "Non-profit / Mga Layunin / Panrelihiyon"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "Iba pa"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "Mga Alagang Hayop / Hayop"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "Real Estate"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "Restaurant / Pagkain"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "Sports / Libangan"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "Transportasyon / Sasakyan"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "Paglalakbay / Hospitality / Leisure"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "Kasal"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "Generic"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"Ang mga imaheng available at nakalisenya para sa paggamit ay inilalaan para "
+"lang sa mga customer na hino-host ng GoDaddy at sumasailalim ang mga ito sa "
+"mga tuntunin at kundisyon ng mga karapatan sa intellectual property ng third "
+"party. <a href=\"%s\" target=\"_blank\">Tingnan ang Mga Tuntunin at "
+"Kundisyon</a> para sa mga karagdagang detalye."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"Ang mga imaheng available at nakalisenya para sa paggamit ay inilalaan para "
+"lang sa mga customer na hino-host namin at sumasailalim ang mga ito sa mga "
+"tuntunin at kundisyon ng mga karapatan sa intellectual property ng third "
+"party. <a href=\"%s\" target=\"_blank\">Tingnan ang Mga Tuntunin at "
+"Kundisyon</a> para sa mga karagdagang detalye."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "Mga Stock na Larawan"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "Palitan ang kategorya"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "Walang nakitang mga stock na larawan."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "I-preview"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "I-import"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "Bumalik"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "Tungkol sa Mga Lisensya ng Imahe"

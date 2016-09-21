@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "ธุรกิจ / การเงิน / กฎหมาย"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "การออกแบบ / ศิลปะ / ผลงาน"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "การเรียนรู้"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "สุขภาพ / ความงาม"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "บริการเกี่ยวกับบ้าน / การก่อสร้าง"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "ดนตรี / ภาพยนตร์ / ความบันเทิง"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "ไม่แสวงหาผลกำไร / การสนับสนุนส่งเสริม / ศาสนา"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "อื่นๆ"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "สัตว์เลี้ยง / สัตว์"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "อสังหาริมทรัพย์"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "ร้านอาหาร / อาหาร"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "กีฬา / นันทนาการ"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "การขนส่ง / ยานยนต์"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "การท่องเที่ยว / บริการต้อนรับ / การพักผ่อน"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "การแต่งงาน"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "ทั่วไป"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"ภาพที่มีให้และที่มีการอนุญาตสำหรับการใช้มีวัตถุประสงค์เพื่อให้ลูกค้าที่ "
+"GoDaddy โฮสต์เท่านั้น "
+"และอยู่ภายใต้ข้อตกลงและเงื่อนไขของสิทธิในทรัพย์สินทางปัญญาของบุคคลที่สาม <a "
+"href=\"%s\" target=\"_blank\">ดูข้อตกลงและเงื่อนไข</a> สำหรับข้อมูลเพิ่มเติม"
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"ภาพที่มีให้และที่มีการอนุญาตสำหรับการใช้มีวัตถุประสงค์เพื่อให้ลูกค้าที่เราโฮสต์เท่านั้น "
+"และอยู่ภายใต้ข้อตกลงและเงื่อนไขของสิทธิในทรัพย์สินทางปัญญาของบุคคลที่สาม <a "
+"href=\"%s\" target=\"_blank\">ดูข้อตกลงและเงื่อนไข</a> สำหรับข้อมูลเพิ่มเติม"
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "ภาพถ่ายในสต็อก"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "เปลี่ยนหมวดหมู่"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "ไม่พบสต็อกรูปภาพ"
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "ดูตัวอย่าง"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "นำเข้า"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "ย้อนกลับ"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "เกี่ยวกับการอนุญาตให้ใช้ภาพ"

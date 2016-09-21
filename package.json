@@ -1,0 +1,33 @@
+{
+  "name": "stock-photos",
+  "title": "Stock Photos",
+  "description": "Import beautiful, curated stock photos for your website",
+  "version": "1.0.0",
+  "author": "GoDaddy",
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.secureserver.net:WordPress/wp-stock-photos.git"
+  },
+  "devDependencies": {
+    "autoprefixer": "~6.3.3",
+    "grunt": "~0.4.5",
+    "grunt-browserify": "~5.0.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.8.2",
+    "grunt-contrib-cssmin": "~0.14.0",
+    "grunt-contrib-uglify": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-pot": "^0.2.1",
+    "grunt-po2mo": "^0.1.2",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-wp-deploy": "^1.1.0",
+    "grunt-postcss": "~0.7.1",
+    "grunt-rtlcss": "~2.0.1",
+    "grunt-sass": "~1.1.0",
+    "matchdep": "~1.0.0"
+  },
+  "scripts": {
+    "version": "grunt version"
+  }
+}

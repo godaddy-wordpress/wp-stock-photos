@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the stock-photos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stock-photos 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 18:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-api.php:158
+msgid "Business / Finance / Law"
+msgstr "Бізнес / фінанси / право"
+
+#: includes/class-api.php:159
+msgid "Design / Art / Portfolio"
+msgstr "Дизайн / мистецтво / портфоліо"
+
+#: includes/class-api.php:160
+msgid "Education"
+msgstr "Навчання"
+
+#: includes/class-api.php:161
+msgid "Health / Beauty"
+msgstr "Краса / здоров'я"
+
+#: includes/class-api.php:162
+msgid "Home Services / Construction"
+msgstr "Послуги на дому / будівництво"
+
+#: includes/class-api.php:163
+msgid "Music / Movies / Entertainment"
+msgstr "Музика / кіно / розваги"
+
+#: includes/class-api.php:164
+msgid "Non-profit / Causes / Religious"
+msgstr "Некомерційні організації / звичаї / релігія"
+
+#: includes/class-api.php:165
+msgid "Other"
+msgstr "Інше"
+
+#: includes/class-api.php:166
+msgid "Pets / Animals"
+msgstr "Домашні улюбленці/тварини"
+
+#: includes/class-api.php:167
+msgid "Real Estate"
+msgstr "Нерухомість"
+
+#: includes/class-api.php:168
+msgid "Restaurant / Food"
+msgstr "Ресторан / продукти харчування"
+
+#: includes/class-api.php:169
+msgid "Sports / Recreation"
+msgstr "Спорт / відпочинок"
+
+#: includes/class-api.php:170
+msgid "Transportation / Automotive"
+msgstr "Транспорт / перевезення"
+
+#: includes/class-api.php:171
+msgid "Travel / Hospitality / Leisure"
+msgstr "Подорожі / готелі / дозвілля"
+
+#: includes/class-api.php:172
+msgid "Wedding"
+msgstr "Весілля"
+
+#: includes/class-scripts.php:53
+msgid "Generic"
+msgstr "Загальні"
+
+#: includes/class-scripts.php:68
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for GoDaddy hosted "
+"customers only and are subject to the terms and conditions of third-party "
+"intellectual property rights. <a href=\"%s\" target=\"_blank\">See Terms and "
+"Conditions</a> for additional details."
+msgstr ""
+"Доступні та ліцензовані для використання зображення призначені лише для "
+"клієнтів, які користуються послугами хостингу GoDaddy, і підлягають умовам і "
+"положенням захисту інтелектуальної власності третіх осіб. Див. додаткову "
+"інформацію в <a href=\"%s\" target=\"_blank\">Умовах і положеннях</a>."
+
+#: includes/class-scripts.php:77
+#, php-format
+msgid ""
+"Images available and licensed for use are intended for our hosted customers "
+"only and are subject to the terms and conditions of third-party intellectual "
+"property rights. <a href=\"%s\" target=\"_blank\">See Terms and Conditions</"
+"a> for additional details."
+msgstr ""
+"Доступні та ліцензовані для використання зображення призначені лише для "
+"клієнтів, які користуються нашими послугами хостингу, і підлягають умовам і "
+"положенням захисту інтелектуальної власності третіх осіб. Див. додаткову "
+"інформацію в <a href=\"%s\" target=\"_blank\">Умовах і положеннях</a>."
+
+#: includes/class-scripts.php:92
+msgid "Stock Photos"
+msgstr "Стокові фотографії"
+
+#: includes/class-scripts.php:93
+msgid "Change category"
+msgstr "Змінити категорію"
+
+#: includes/class-scripts.php:95
+msgid "No stock photos found."
+msgstr "Стокові фото не знайдено."
+
+#: includes/class-scripts.php:96
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: includes/class-scripts.php:97
+msgid "Import"
+msgstr "Імпорт"
+
+#: includes/class-scripts.php:98
+msgid "Back"
+msgstr "Назад"
+
+#: includes/class-scripts.php:99
+msgid "About Image Licenses"
+msgstr "Про ліцензії на зображення"
